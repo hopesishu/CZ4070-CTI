@@ -26,4 +26,6 @@ Data from each of the scraped websites will be collated together into a Pandas D
 2) __Difficulty in cleaning data__
     1) Problem: There exists duplicate victim company/organization names within the DataFrame with slight variations
     2) Fix: ???
-  
+3) __Unable to determine large majority of victim companies/organizations industries__
+    1) Problem: Not all victim companies/organizations have a Wikipedia page. From the victim-shaming website that has been scraped so far, only ~1/5 of the victims' industries have been identified
+    2) Fix: A larger number of victim companies/organizations have a LinkedIn page that provides the victim's industry, but not geographical location
