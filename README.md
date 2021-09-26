@@ -8,7 +8,7 @@ Websites that have been scraped:
 
 __How it works:__ <br />
 The web scaper scrapes the title of each post in the website, which contains the name of the victim company/organization. Each 
-victim company/organization is placed inside a list that will later be passed to the Selenium script to find its respective industry. 
+victim company/organization is placed inside a list that will later be passed to the Selenium script to find its industry. 
 
 ## 2. Web Automation using Selenium
 __How it works:__ <br />
