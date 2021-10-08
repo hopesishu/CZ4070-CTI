@@ -1,0 +1,804 @@
+Ransomware ,Company Name,Industry,Headquarters,Country,Date of attack,APAC? (Yes/No),Type of data leaked
+REvil,Spiezle Architectural Group,Construction,"Hamilton, NJ",States,,No,PII
+REvil,Ensinger,Manufacturing,"Nufringen, Germany",Deutschland,,No,Trade Secret
+REvil,Primo Water,Manufacturing,"Winston-Salem, NC",States,,No,PII
+REvil,Innocean,Advertising & Marketing,"Seoul, South Korea",South Korea,,Yes,Trade Secret
+REvil,HX5,Technology,"Fort Walton Beach, FL",States,,No,PII
+REvil,Daylesford Farmshop & CafÃ©,Food,"London, United Kingdom",Kingdom,,No,Entire System
+REvil,Smith & Wollensky,Food,"Boston, MA",States,,No,PII
+REvil,Whittlesey,Financial,"Hartford, CT",States,,No,Entire System
+REvil,CitroÃ«n,Manufacturing,"Paris, France",France,,No,Entire System
+REvil,Agile Property,Construction,"Zhongshan, China",China,,Yes,Entire System
+REvil,Betenbough Homes,Real Estate,"Lubbock, TX",States,,No,PII
+REvil,GDS Group,Research & Development,"Bristol, United Kingdom",Kingdom,,No,Inventory
+REvil,Amfine Chemical,Research & Development,"Hasbrouck Heights, NJ",States,,No,Entire System
+REvil,TreeHouse,Retail & Sales,"Austin, TX",States,,No,Entire System
+REvil,GovNet,Retail & Sales,"London, United Kingdom",Kingdom,,No,Entire System
+REvil,Southern Asphalt,Construction,"Conway, SC",States,,No,Entire System
+REvil,Thomas Concrete,Manufacturing,"Atlanta, GA",States,,No,Financial Statements
+REvil,Neo Derm,Manufacturing,"Hong Kong, Hong Kong",Hong Kong,,Yes,Entire System
+REvil,Harris Federation,Education,"Croydon, United Kingdom",Kingdom,,No,Undisclosed
+REvil,Maestri-Murrell Commercial Real Estate,Real Estate,"Baton Rouge, LA",States,,No,Entire System
+REvil,Benetech,Technology,"Palo Alto, CA",States,,No,Undisclosed
+REvil,Architectural Products of Virginia,Manufacturing,"Ashland, VA",States,,No,Entire System
+REvil,Cockram Construction,Construction,"Kalamazoo, MI",States,,No,Trade Secret
+REvil,Reno & Zahm,Manufacturing,"Rockford, IL",States,,No,Client Information
+REvil,TRIGANO,Manufacturing,"Paris, France",France,,No,Entire System
+REvil,Standley Systems,Retail & Sales,"Chickasha, OK",States,,No,PII
+REvil,MJS,Technology,"Nairobi, Kenya",Kenya,,No,Entire System
+REvil,Southern Arkansas University,Education,"Magnolia, AR",States,,No,Client Information
+REvil,Malcolm Drilling,Technology,"San Francisco, CA",States,,No,PII
+REvil,J & B Distributing Co,Financial,"Chicago, IL",India,,No,Employee Data
+REvil,Shelly & Sands,Construction,"Zanesville, OH",States,,No,Financial Statements
+REvil,General Insulation,Manufacturing,"Medford, MA",States,,No,Entire System
+REvil,Weiland Logistics,Essential Services,"Wautoma, WI",States,,No,Client Information
+REvil,Ghilotti Bros,Construction,"San Rafael, CA",States,,No,Financial Statements
+REvil,HUBER + SUHNER,Manufacturing,"Herisau, Switzerland",Switzerland,,No,Entire System
+REvil,Kenneth Copeland Ministries,Religious industry,"Fort Worth, TX",States,,No,Financial Statements
+REvil,Kenneth Copeland Ministries,Religious industry,"Fort Worth, TX",States,,No,Financial Statements
+REvil,Trevor Sorbie International,Essential Services,"Covent Garden, United Kingdom",Kingdom,,No,Computer Files
+REvil,Bentek,Manufacturing,"San Jose, CA",States,,No,PII
+REvil,Cardinal Logistics Management,Logistics and Supply,"Concord, NC",States,,No,Financial Statements
+REvil,RMD Kwikform,Consulting,"Walsall, United Kingdom",Kingdom,,No,Entire System
+REvil,Kenneth Copeland Ministries,Religious industry,"Fort Worth, TX",States,,No,Financial Statements
+REvil,CMC Consulting (UK),Consulting,"Saint Albans, United Kingdom",Kingdom,,No,Financial Statements
+REvil,World Logistics Group,Logistics and Supply,"Woodstock, GA",States,,No,Financial Statements
+REvil,The Lee Company,Manufacturing,"Westbrook, CT",States,,No,Entire System
+REvil,Richardson,Consulting,"Philadelphia, PA",States,,No,Undisclosed
+REvil,Gaming Partners International,Manufacturing,"North Las Vegas, NV",States,,No,Entire System
+REvil,Matson,Logistics and Supply,"Honolulu, HI",States,,No,Financial Statements
+REvil,Arapahoe Libraries,Government,"Englewood, CO",States,,No,Financial Statements
+REvil,Braskem,Manufacturing,"SÃ£o Paulo, Brazil",Brasil,,No,Financial Statements
+REvil,New Chapter Consulting,Consulting,"Leeds, United Kingdom",Kingdom,,No,Undisclosed
+REvil,"Russell,Kraft&Gruber",Legal,"Lancaster, Pennsylvania",Kingdom,,No,Employee Data
+REvil,Meinhardt Singapore,Financial,"Singapore, Singapore",Singapore,,Yes,Entire System
+REvil,Agrosuper,Manufacturing,"Rancagua, Chile",Chile,,No,Employee Data
+REvil,Amicorp,Financial,"Bangalore, India",India,,Yes,Employee Data
+REvil,Elsa,Manufacturing,"Elwood, IN",Australia,,Yes,Entire System
+REvil,Eurecat U S Incorporated,Manufacturing,"Houston, TX",Italia,,No,Undisclosed
+REvil,ODLO,Manufacturing,"HÃ¼nenberg, Switzerland",Switzerland,,No,Client Information
+REvil,ADIF,Logistics and Supply,"Madrid, Spain",Spain,,No,Financial Statements
+REvil,Genesis Products,Manufacturing,"Elkhart, IN",States,,No,Computer Files
+REvil,Duncan Enterprises,Manufacturing,"Fresno, CA",States,,No,PII
+REvil,Silvaris,Retail & Sales,"Mercer Island, WA",States,,No,Client Information
+REvil,Lion,Food,"Sydney, Australia",Australia,,Yes,Financial Statements
+REvil,Spec Inc,Manufacturing,"Erlanger, KY",States,,No,Client Information
+REvil,Snaptron,Manufacturing,"Windsor, CO",Colombia,,No,Entire System
+REvil,Armour & Associates,Consulting,"Meridian, ID",States,,No,Client Information
+REvil,Patten & Prentice,Legal,"Greenock, United Kingdom",Kingdom,,No,Client Information
+REvil,The Cactus Group,Essential Services,"Brooks, Canada",Canada,,No,Financial Statements
+REvil,Ascent Network,Consulting,"Houston, TX",States,,No,Client Information
+REvil,National Eating Disorders Association,Essential Services,"Seattle, 061",States,,No,Entire System
+REvil,Burhani Engineers,Technology,"Nairobi, Kenya",Kenya,,No,Entire System
+REvil,Jamaica National Building Society,Financial,"Kingston, Jamaica",Jamaica,,No,Entire System
+REvil,Tire-Rama,Retail & Sales,"Billings, MT",States,,No,Financial Statements
+REvil,VP Supply,Retail & Sales,"Rochester, NY",States,,No,PII
+Pysa,My Cloud Star,Technology,"Jacksonville, FL",States,08/16/21,No,Entire System
+Pysa,HPW,Technology,"Palo Alto, CA",States,04/29/21,No,Entire System
+Pysa,HVAC Facility & Plant Maintenance Tools,Technology,"Stamford, CT",States,04/20/21,No,Computer Files
+Pysa,Danko Emergency Equipment,Essential Services,"Skive, Denmark",Denmark,04/21/21,No,Financial Statements
+Pysa,FCS Financial,Financial,"Jefferson City, MO",States,04/18/21,No,Financial Statements
+Pysa,HABI,Real Estate,"Salt Lake City, Utah",States,04/21/21,No,Entire System
+Pysa,Woodlake Unified,Education,"WOODLAKE, California",States,4/8/2021,No,PII
+Pysa,Haverhill High School,Education,"Haverhill, MA",States,4/7/2021,No,Client Information
+Pysa,Spartanburg & Pelham OB-GYN,Healthcare,"Spartanburg, SC",States,4/7/2021,No,PII
+Pysa,Grupo SAN,Construction,"Don Torcuato, Argentina",Argentina,4/12/2021,No,Entire System
+Pysa,Jesse Engineering Co,Construction,"Tacoma, WA",States,04/20/21,No,Entire System
+Pysa,One Community Health,Healthcare,"Sacramento, CA",States,04/20/21,No,PII
+Pysa,Logansport Community School Corporation,Technology,"Logansport, IN",States,11/4/2021,No,Undisclosed
+Pysa,Betson Enterprises,Sport & Recreation,"Carlstadt, NJ",States,4/10/2021,No,PII
+Pysa,Karavan Trailers,Travel,"Fox Lake, WI",States,4/1/2021,No,Undisclosed
+Pysa,WPSD Local 6,Entertainment,"Paducah, KY",States,03/20/21,No,Financial Statements
+Pysa,LJ Hooker Aspley,Real Estate,Australia,Australia,7/2/2021,Yes,Undisclosed
+Pysa,Famous Supply,Retail & Sales,"Akron, OH",States,7/2/2021,No,PII
+Pysa,the NET - Northeast Tennessee Media Group,Advertising & Marketing,"Salt Lake City, UT",States,7/2/2021,No,Client Information
+Pysa,Bulley,Construction,"Chicago, IL",States,5/2/2021,No,Undisclosed
+Pysa,Sarmad Steel,Manufacturing,"Tehran, Iran",Iran,03/15/21,No,Undisclosed
+Pysa,Vermont Personal Injury Lawyers,Legal,"Essex Junction, Vermont",States,03/16/21,No,Client Information
+Pysa,Upstate HomeCare,Healthcare,"Utica, NY",States,3/11/2021,No,PII
+Pysa,The Fashion Group International,Retail & Sales,"New York, NY",States,4/7/2021,No,PII
+Pysa,OHL Judlau,Construction,"College Point, NY",States,03/30/21,No,Undisclosed
+Pysa,Cyclone Steel,Utilities,"Houston, Texas",States,03/21/21,No,Undisclosed
+Pysa,Geotechnical Consultants Inc.,Technology,"Westerville, Ohio",States,03/23/21,No,Entire System
+Pysa,Hyper Microsystems,Technology,"Rolling Meadows, Illinois",States,03/19/21,No,Computer Files
+Pysa,St Bede's College,Education,"Bristol, United Kingdom",Kingdom,03/15/21,No,Employee Data
+Pysa,Buffalo Schools,Education,"Buffalo, NY",States,3/12/2021,No,PII
+Pysa,Aztec Events,Retail & Sales,"Houston, TX",States,3/7/2021,No,PII
+Pysa,Alliance Architecture,Construction,"Washington, DC",States,5/3/2021,No,Undisclosed
+Pysa,AFP Elevator,Manufacturing,Iran,Iran,03/15/21,No,Undisclosed
+Pysa,Zane State College,Education,"Zanesville, OH",States,29/3/2021,No,PII
+Pysa,Commack Fire Department,Government,"Commack, NY",States,03/22/21,No,Undisclosed
+Pysa,ATC Transportation,Travel,"Pleasant Prairie, WI",States,03/22/21,No,Undisclosed
+Pysa,Zamora,Food,"Madrid, Spain",España,03/19/21,No,Undisclosed
+Pysa,Children's Network of Southwest Florida,Religious,"Fort Myers, FL",States,22/3/2021,No,Financial Statements
+Pysa,Dayton Door Sales,Construction,"Dayton, OH",States,15/3/2021,No,PII
+Pysa,Drug Alcohol Testing and Screening Compliance in Texas,Consulting,"Houston, TX",States,13/3/2021,No,Client Information
+Pysa,"Divorce Lawyer in Reading & Douglassville, PA",Legal,"Douglassville, PA",States,7/3/2021,No,PII
+Pysa,Worldwide Oilfield Machine,Utilities,"Houston, Texas",States,27/2/2021,No,Undisclosed
+Pysa,Affton School District,Healthcare,Educational Institution,India,25/2/2021,No,PII
+Pysa,Gering Public Schools,Healthcare,"Gering, NE",States,24/2/2021,No,Financial Statements
+Pysa,Home Grown Grocery Food Supermarket,Food,"Minneapolis, MN",States,22/2/2021,No,PII
+Pysa,JVSmith Companies,Real Estate,"Bethesda, MD",States,20/2/2021,No,Financial Statements
+Pysa,Ciruli Brothers,Food,"Tubac, Arizona",States,20/2/2021,No,Financial Statements
+Pysa,Eagle Eye Produce,Food,"Idaho Falls, ID",States,10/3/2021,No,Financial Statements
+Pysa,Wiener Laboratorios,Healthcare,"Rosario, Santa Fe",Argentina,5/3/2021,No,PII
+Pysa,Legacy Housing Corporation,Construction,"Bedford, TX",States,28/2/2021,No,Client Information
+Pysa,Aireko,Construction,"Caguas, PR",States,27/2/2021,No,Client Information
+Pysa,Grover Corparation,Manufacturing,"Milwaukee, WI",States,25/2/2021,No,Undisclosed
+Pysa,Public Restroom Company,Construction,"Minden, NV",States,23/2/2021,No,Undisclosed
+Pysa,Marlboro Pediatric Dentistry,Healthcare,"Marlborough, MA",States,23/2/2021,No,PII
+Pysa,Millersville University,Education,"Millersville, Pennsylvania",States,3/4/2021,No,PII
+Pysa,Immanuel Lutheran Church and School,Education,"Loveland, CO",States,22/2/2021,No,PII
+Pysa,Modern Data Systems,Technology,Saudi Arabia,Arabia,17/2/2021,No,Entire System
+Pysa,Upstate Home Care,Healthcare,"Utica, NY",States,24/2/2021,No,PII
+Pysa,Levante UD,Sport & Recreation,"Valencia, Valencia",España,19/2/2021,No,Undisclosed
+Pysa,Dale Operating Company,Utilities,"Dallas, TX",States,18/2/2021,No,Financial Statements
+Pysa,Transam Carriers,Travel,"Olathe, KS",States,22/3/2021,No,Undisclosed
+Pysa,Bridgeway Inc,Essential Services,"Galesburg, IL",States,14/3/2021,No,Undisclosed
+Pysa,City of Covington Louisiana,Government,"Covington, Washington",States,11/3/2021,No,PII
+Pysa,Western Flyer Express,Logistics and Supply,"Oklahoma City, OK",States,8/3/2021,No,Undisclosed
+Pysa,Forest City Fire Protection,Essential Services,"London, Ontario",Canada,6/3/2021,No,Undisclosed
+Pysa,Woodholme Gastroenterology Associates,Healthcare,"BALTIMORE, Maryland",States,1/2/2021,No,Undisclosed
+Pysa,Momentum Transportation,Logistics and Supply,"Jacksonville, FL",States,23/2/2021,No,Undisclosed
+Pysa,Florence-Darlington Technical College,Education,"Florence, SC",States,18/2/2021,No,PII
+Pysa,FirstCash Inc,Financial,"Fort Worth, TX",States,11/2/2021,No,Undisclosed
+Pysa,Tenderloin Housing Clinic,Healthcare,"San Francisco, CA",States,15/2/2021,No,PII
+Pysa,Paysoft,Technology,"Las Vegas, NV",States,13/2/2021,No,Undisclosed
+Pysa,EBSU,Manufacturing,Canada,Canada,12/2/2021,No,Undisclosed
+Pysa,Repro X-Press,Technology,"Montebello, CA",States,9/2/2021,No,Undisclosed
+Pysa,BABB Security Systems,Essential Services,Canada,Canada,7/2/2021,No,Computer Files
+Pysa,Ogden Golf & Country Club,Entertainment,United States,States,5/2/2021,No,Undisclosed
+Pysa,OnLINE FM,Technology,"Germantown, Tennessee",States,1/2/2021,No,Undisclosed
+Pysa,A Superior Towing,Logistics and Supply,"Reynoldsburg, OH",States,01/31/21,No,Financial Statements
+Pysa,La ChÃ¢taigneraie,Education,"Founex, Switzerland",Switzerland,01/30/21,No,PII
+Pysa,Baldwin Wallace University,Education,United States,States,29/1/2021,No,PII
+Pysa,Blackhawk Mining,Manufacturing,United States,States,2/10/2021,No,Undisclosed
+Pysa,Zionsville Community Schools,Education,"Zionsville, IN",States,2/5/2021,No,PII
+Pysa,IDS Online Store,Retail & Sales,"Dayton, New Jersey",States,2/5/2021,No,Undisclosed
+Pysa,Dallas Production,Utilities,"Dallas, Texas",States,01/27/21,No,Undisclosed
+Pysa,D.W. Haber & Son,Retail & Sales,United States,States,2/9/2021,No,Undisclosed
+Pysa,Esteyco,Essential Services,"Madrid, Madrid",Spain,02/14/21,No,Undisclosed
+Pysa,"American Industrial Felt & Supply, Inc",Manufacturing,United States,States,01/31/21,No,Undisclosed
+Pysa,ProSource Wholesale,Retail & Sales,"Earth City, MO",States,01/30/21,No,Undisclosed
+Pysa,Lo Studio Bartoli & Arveda,Consulting,Italy,Italia,01/30/21,No,Financial Statements
+Pysa,Prefeitura de BalneÃ¡rio CamboriÃº,Government,Brazil,Brasil,01/27/21,No,Undisclosed
+Pysa,Syracuse New Times,Advertising & Marketing,"Syracuse, NY",States,01/22/21,No,Undisclosed
+Pysa,Siesacloud,Technology,Spain,Spain,01/14/20,No,Computer Files
+Pysa,Plantaciones de PlÃ¡tano,Retail & Sales,"Santa Cruz de Tenerife, Tenerife",Spain,1/12/2020,No,Financial Statements
+Pysa,Grant Supplies,Retail & Sales,"Teaneck Township, New Jersey",States,12/31/20,No,Financial Statements
+Pysa,Viport,Government,"ST THOMAS, VI",States,01/29/2021,No,Undisclosed
+Pysa,Powerblanket,Manufacturing,"Salt Lake City, UT",States,01/23/21,No,Undisclosed
+Pysa,Brain:IT,Technology,"San Mateo, CA",States,2/8/2021,No,Undisclosed
+Pysa,Fairfax University of America,Education,"Fairfax, Virginia",States,1/11/2020,No,PII
+Pysa,Doak Shirreff Lawyers,Legal,Canada,Canada,12/16/20,No,Undisclosed
+Pysa,Grand Annecy Agglomeration,Government,"Annecy, France",France,12/16/20,No,Undisclosed
+Pysa,Cleveland Institute of Music,Education,United States,States,12/29/20,No,Undisclosed
+Pysa,Tucker Oil Company Inc.,Utilities,"Columbia, SC",States,12/31/20,No,Financial Statements
+Pysa,Wolf Lake Industrial Center and Terminals,Logistics and Supply,"Hammond, IN",States,12/26/20,No,Undisclosed
+Pysa,Implanta Spa,Healthcare,"Daejeon, South Korea",South Korea,12/26/20,Yes,PII
+Pysa,Peters Bosel Lawyers,Legal,Australia,Australia,12/30/20,Yes,Undisclosed
+Pysa,Little Elm,Education,"Little Elm, TX",States,12/10/2020,No,Undisclosed
+Pysa,Flamingo Horticulture,Retail & Sales,Kenya,Kenya,12/10/2020,No,Undisclosed
+Pysa,Prairie View A&M University,Education,United States,States,4/2/2021,No,PII
+Pysa,Intecs group,Technology,"Rome, Italy",Italia,12/13/20,No,Undisclosed
+Pysa,Wisconsin Public Radio,Advertising & Marketing,"Madison, WI",States,11/12/2020,No,Undisclosed
+Pysa,Jebco Agencies Inc.,Logistics and Supply,Canada,Canada,01/13/21,No,Undisclosed
+Pysa,Romanoff Group,Construction,"Gahanna, Oh",States,12/14/20,No,Undisclosed
+Pysa,Neenan Company,Construction,"Fort Collins, CO",States,01/16/21,No,Undisclosed
+Pysa,Bridgwater & Taunton College,Education,UK,Kingdom,1/12/2020,No,PII
+Pysa,The Bascom,Real Estate,"Irvine, CA",States,01/26/2021,No,Undisclosed
+Pysa,Blueknight Energy Partners,Utilities,"Tulsa, OK",States,01/17/2021,No,Undisclosed
+Pysa,Ãstre Toten Kommune Voksenopplring,Government,"Lena , Ãstre Toten kommune",Norway,12/19/2020,No,Undisclosed
+Pysa,The FitzWimark School,Education,"Rayleigh, England",Kingdom,6/12/2020,No,PII
+Pysa,"DFW Communications,Inc.",Advertising & Marketing,"Arlington, TX",States,1/12/2020,No,Undisclosed
+Pysa,Palos Community Consolidated School District 118,Preschool & Child Care,"Palos Park, IL",States,9/12/2020,No,PII
+Pysa,CCS,Accounting,"Norwood, MA",States,12/10/2020,No,PII
+Pysa,Provenza Floors,Construction,"Tustin, California",States,12/3/2020,No,Undisclosed
+Pysa,Salesianum School,Education,"Wilmington, DE",States,11/29/2020,No,PII
+Pysa,Brookfield Public Schools,Healthcare,"Brookfield, Connecticut",States,12/1/2020,No,Undisclosed
+Pysa,Thinkware,Technology,"Cincinnati, Ohio",States,1/12/2021,No,Employee Data
+Pysa,Nama Khoi Municipality,Government,South Africa,Africa,11/29/2020,No,Entire System
+Pysa,Financial Evolution,Technology,"Torino, TO",Italia,11/23/2020,No,Undisclosed
+Pysa,Brickhaus,Real Estate,"Cleveland, OH",States,12/5/2020,No,Undisclosed
+Pysa,Summit Appliance,Manufacturing,"Bronx, NY",States,12/2/2020,No,Undisclosed
+Pysa,King Henrys,Consulting,"Valencia, California",States,12/3/2020,No,Undisclosed
+Pysa,Outwest Express LLC,Logistics and Supply,"El Paso, TX",States,11/22/2020,No,Undisclosed
+Pysa,Serinus Energy Plc,Utilities,"Singapore, Singapore",Singapore,11/10/2020,Yes,Undisclosed
+Pysa,Mid-Florida Pathology,Healthcare,"Leesburg, Florida",States,11/22/2020,No,Undisclosed
+Pysa,Max. Aarts,Retail & Sales,"Enschede, Overijssel",Nederland,11/28/2020,No,PII
+Pysa,Torello Moving Strategies,Logistics and Supply,"Montoro, Avellino",Italia,11/27/2020,No,Undisclosed
+Pysa,St. Mary School Hyde Park,Education,United States,States,11/13/2020,No,Undisclosed
+Pysa,"Overlake Obstetricians & Gynecologists,PC",Healthcare,"Bellevue, WA",States,11/29/2020,No,Undisclosed
+Pysa,McKinney,Advertising & Marketing,"Durham, NC",States,11/25/2020,No,PII
+Pysa,Grupo Infoar,Retail & Sales,"Porto Alegre, Rio Grande do Sul",Brasil,11/30/2020,No,Undisclosed
+Pysa,Bene Ficencia,Essential Services,"Guayaquil, Ecuador",Ecuador,11/18/2020,No,Undisclosed
+Pysa,St. Margaretâs Hospice Care,Healthcare,"Taunton, Somerset",Kingdom,11/25/2020,No,Undisclosed
+Pysa,Riggins Company,Retail & Sales,"Hampton, Virginia",States,11/17/2020,No,PII
+Pysa,Merchant Taylors' School,Education,UK,Kingdom,11/21/2020,No,Undisclosed
+Pysa,Dayliff,Retail & Sales,"Nairobi, Kenya",Kenya,11/11/2020,No,Undisclosed
+Pysa,Benchmark Family Services,Retail & Sales,United States,States,11/5/2020,No,Undisclosed
+Pysa,Tech 2000,Consulting,"Houston, TX",States,11/5/2020,No,Undisclosed
+Pysa,Mirai,Financial,"Boston, Spain",España,11/4/2020,No,Undisclosed
+Pysa,Rontis Medical,Healthcare,"Zug, ZG",Switzerland,11/4/2020,No,PII
+Pysa,Gemitchellco,Retail & Sales,United States,States,11/4/2020,No,Undisclosed
+Pysa,Affinity Education,Education,"Brisbane, QLD",Australia,11/6/2020,Yes,PII
+Pysa,Mendes JÃºnior,Construction,"Belo Horizonte, Minas Gerais",Brasil,11/5/2020,No,Undisclosed
+Pysa,Bruce Turner,Legal,United States,States,11/5/2020,No,Undisclosed
+Pysa,Roughrider Internation Ltd.,Logistics and Supply,"Fort McMurray, Alberta",Canada,11/5/2020,No,Undisclosed
+Pysa,Market Pioneer,Logistics and Supply,"Jamaica, NY",States,11/4/2020,No,Undisclosed
+Pysa,Hackney Council,Government,"London, England",Kingdom,11/3/2020,No,Undisclosed
+Pysa,Ayuntamiento de Guadarrama,Government,"Marbella, Spain",España,11/3/2020,No,PII
+Pysa,Telhai,Healthcare,"Honey Brook, PA",States,11/2/2020,No,PII
+Pysa,CWF Group Inc.,Financial,"North York, ON",Canada,11/1/2020,No,Undisclosed
+Pysa,Mongoldford,Logistics and Supply,"Eureka, IL",States,11/1/2020,No,Undisclosed
+Pysa,Avelia,Technology,"Paris, Ãle-de-France",France,10/30/20,No,Computer Files
+Pysa,Econocom,Technology,United States,States,10/29/20,No,Computer Files
+Pysa,Bakers S.A. Limited,Logistics and Supply,"Cato Ridge, Kwa-Zulu Natal, South Africa ð¿ð¦",South Africa,10/27/20,No,Undisclosed
+Pysa,IQA,Advertising & Marketing,"Long Beach, CA",States,10/26/20,No,Undisclosed
+Pysa,Winters Independent School District,Education,"Winters, CA",States,10/25/20,No,PII
+Pysa,Heartland,Financial,"Oklahoma City, Oklahoma",States,10/24/20,No,PII
+Pysa,ASE Bucuresti,Manufacturing,"Kaohsiung, Taiwan",Taiwan,10/23/20,Yes,Client Information
+Pysa,Rafaela Alimentos,Food,"Rafaela, Santa Fe",Argentina,10/21/20,No,Undisclosed
+Pysa,CASES,Essential Services,"Brooklyn, NY",States,10/20/20,No,Undisclosed
+Pysa,Irish Farmers Journals,Advertising & Marketing,"Bluebell, Ireland",Ireland,10/19/20,No,Undisclosed
+Pysa,Kuenne Gruppe,Real Estate,Germany,Deutschland,10/18/20,No,Financial Statements
+Pysa,West Central Foodservice,Food,"Norwalk, CA",States,10/17/20,No,Undisclosed
+Pysa,Tor Vergata,Education,"Rome, Italy",Italia,10/16/20,No,PII
+Pysa,UCEL,Construction,"UXBRIDGE, ON",Canada,10/5/2020,No,Undisclosed
+Pysa,Myerscough College,Education,"Preston, United Kingdom",Kingdom,10/2/2020,No,PII
+Pysa,MK Products,Manufacturing,"Irvine, CA",States,09/21/20,No,Undisclosed
+Pysa,Bosley,Healthcare,"Beverly Hills, CA",States,09/19/20,No,PII
+Pysa,ACE Glass,Logistics and Supply,"Vineland, NJ",States,09/18/20,No,Undisclosed
+Pysa,The Teka Group,Manufacturing,"Madrid, Comunidad de Madrid",Spain,09/15/20,No,Undisclosed
+Pysa,Nonin Medical,Healthcare,"Plymouth, Minnesota",States,09/15/20,No,Financial Statements
+Pysa,Grand Homes,Real Estate,"Addison, TX",States,09/15/20,No,Undisclosed
+Pysa,Assured Imaging,Healthcare,"Tucson, AZ",States,09/13/20,No,PII
+Pysa,Uxbridge College,Education,UK,Kingdom,09/13/20,No,PII
+Pysa,The Seifert Logistics Group,Logistics and Supply,"Ulm, Baden-Württemberg",Deutschland,09/13/20,No,Undisclosed
+Pysa,Upper Columbia Academy,Education,"Columbia, SC",States,09/13/20,No,PII
+Pysa,Dublin,Government,Canada,Canada,09/13/20,No,Undisclosed
+Pysa,The CFC,Financial,"London, England",Kingdom,09/13/20,No,Undisclosed
+Pysa,Lindenwold,Government,"Lindenwold, NJ",States,9/11/2020,No,Undisclosed
+Pysa,The Sixth Form Bolton,Education,UK,Kingdom,9/11/2020,No,PII
+Pysa,The Dantherm Group,Manufacturing,Europe,States,9/11/2020,No,Undisclosed
+Pysa,Monty Holding Group,Technology,"London, England",Kingdom,9/11/2020,No,Undisclosed
+Pysa,Illinois Valley Community College,Education,"Oglesby, IL",States,9/5/2020,No,PII
+Pysa,Wichita Sheet Metal,Manufacturing,"Joplin, MO",States,9/4/2020,No,Undisclosed
+Pysa,Alliance Building Services,Construction,"New York, NY",States,9/4/2020,No,Undisclosed
+Pysa,Marseille Provence,Logistics and Supply,France,France,08/28/2020,No,Financial Statements
+Pysa,John Hardy,Retail & Sales,"New York, NY",States,08/28/20,No,Undisclosed
+Pysa,WHSE,Logistics and Supply,"Taylor, MI",States,08/27/20,No,Financial Statements
+Pysa,MCLINC,Technology,"Conshohocken, PA",States,08/13/20,No,Computer Files
+Pysa,Repro X-Press,Technology,"Montebello, CA",States,8/12/2020,No,Entire System
+Pysa,Piedmont Orthopedics | OrthoAtlanta,Healthcare,"Atlanta, Georgia",States,8/6/2020,No,PII
+Pysa,Q3 Academy,Education,"Birmingham, West Midlands",Kingdom,8/6/2020,No,PII
+Pysa,The Masonic Home of Florida,Healthcare,"St Petersburg, FL",States,8/6/2020,No,Undisclosed
+Pysa,Groupe Lefebvre M.R.P.,Retail & Sales,France,France,8/5/2020,No,Undisclosed
+Pysa,Cretsenbelledonne,Food,"Wilmslow Road, Manchester",Kingdom,7/3/2020,No,Undisclosed
+Pysa,Grupocif,Essential Services,Mexico,México,7/1/2020,No,Undisclosed
+Pysa,Noorulislam,Education,London ,Kingdom,06/28/20,No,PII
+Pysa,Ribasalvarez,Consulting,"Girona, Girona",Spain,06/25/20,No,Undisclosed
+Pysa,HAC,Essential Services,London,Kingdom,06/23/20,No,Undisclosed
+Pysa,Aebel,Healthcare,"Londrina, Paraná",Brasil,06/15/20,No,PII
+Pysa,CDPO,Retail & Sales,"ESTERNAY, France",France,06/15/20,No,Undisclosed
+Pysa,Pjfitzpatrick,Construction,Delaware,States,6/12/2020,No,Undisclosed
+Pysa,Saludladera,Healthcare,"Cali, Colombia",Colombia,6/2/2020,No,PII
+Pysa,Famisanar,Essential Services,"BogotÃ¡, BogotÃ¡ D.C",Colombia,05/17/20,No,Undisclosed
+Pysa,Poliview,Technology,"SÃ£o Paulo, Brazil",Brazil,05/17/20,No,Undisclosed
+Pysa,Oliviers,Consulting,"New York, NY",States,05/17/20,No,Undisclosed
+Pysa,Matthews,Real Estate,"El Segundo, CA",States,5/9/2020,No,Undisclosed
+Pysa,Fincamex,Construction,"MazatlÃ¡n, Mexico",México,5/8/2020,No,Undisclosed
+Pysa,Allard,Manufacturing,"Turnhout, Flanders",Belgien,5/5/2020,No,Financial Statements
+Pysa,Diamond Box,Logistics and Supply,"West Bromwich, United Kingdom",Kingdom,5/1/2020,No,Financial Statements
+Pysa,Faic,Food,"White House Station, New Jersey",States,04/23/20,No,Undisclosed
+Pysa,Liberty Linehaul,Travel,"Montebello, CA",States,4/3/2020,No,Undisclosed
+Pysa,Sacschool,Education,"Grahamstown, Eastern Cape",Africa,4/3/2020,No,Undisclosed
+BlackMatter,"BCP Securities, LLC",Advertising & Marketing,"Greenwich, CT",Kingdom,,No,Client Information
+BlackMatter,Equity Transportation,Logistics and Supply,"Grand Rapids, MI",States,,No,Employee Data
+BlackMatter,Crystal Valley Cooperative,Consulting,"Lake Crystal, MN",States,,No,Financial Statements
+BlackMatter,Bumper To Bumper,Logistics and Supply,"North Arlington, NJ",States,,No,Client Information
+BlackMatter,River City Construction,Construction,"East Peoria, IL",States,,No,Undisclosed
+BlackMatter,G-ABLE,Technology,"Bangkok, Thailand",Thailand,,Yes,Undisclosed
+BlackMatter,Voiceworks,Technology,"Almere-Stad, Netherlands",Nederland,,No,Computer Files
+BlackMatter,HHCP Architects,Construction,"Orlando, FL",States,,No,Computer Files
+XINGTeam,J.Irwin Company,Logistics and Supply,"Largo, MD",States,8/17/2021,No,Computer Files
+XINGTeam,DiaSorin,Healthcare,"Stillwater, MN",States,7/8/2021,No,Computer Files
+XINGTeam,"Positive Promotions, Inc.",Manufacturing,"Hauppauge, NY",States,6/2/2021,No,Computer Files
+XINGTeam,AQUALUNG,Manufacturing,"Vista, CA",States,6/2/2021,No,Computer Files
+XINGTeam,Coastal Family Health Center,Healthcare,"Biloxi, MS",States,5/24/2021,No,Computer Files
+XINGTeam,OSF Healthcare System,Healthcare,"Peoria, IL",States,5/18/2021,No,Computer Files
+XINGTeam,CBN Logistic,Food,"Manila, Philippines",Luzon,5/14/2021,Yes,Computer Files
+XINGTeam,Gulfeagle Supply,Retail & Sales,"Tampa, FL",States,5/11/2021,No,Computer Files
+XINGTeam,Washoe Tribe,Government,"Gardnerville, NV",States,5/6/2021,No,Computer Files
+XINGTeam,"Bridgelux, Inc. ",Manufacturing,"Fremont, CA",States,5/6/2021,No,Computer Files
+Conti,Office Star Products,Manufacturing,"Ontario, CA",Canada,9/30/2021,No,Computer Files
+Conti,Real Time,Technology,"Port Coquitlam, Canada",Canada,9/28/2021,No,Computer Files
+Conti,Covision,Technology,"Bushey, United Kingdom",Kingdom,9/28/2021,No,Computer Files
+Conti,TaxLeaf Corporate,Financial,"Miami, Florida",States,9/28/2021,No,Computer Files
+Conti,Minjar Gold,Manufacturing,"West Perth, Australia",Australia,9/27/2021,Yes,Undisclosed
+Conti,parcoinc,Manufacturing,"Ontario, CA",Canada,9/27/2021,No,Undisclosed
+Conti,WEST TREE SERVICE,Utilities,"Little Rock, AR",States,9/27/2021,No,Computer Files
+Conti,AMAX,Manufacturing,"East Greenwich, RI",States,9/26/2021,No,PII
+Conti,RTI Surgical,Healthcare,"Alachua, FL",States,9/26/2021,No,Undisclosed
+Conti,Jakes Finer Foods,Manufacturing,"Houston, TX",States,9/24/2021,No,Undisclosed
+Conti,Vera Wang Group,Manufacturing,"New York, NY",States,9/24/2021,No,Undisclosed
+Conti,IN2 Engineering,Construction,"Dublin, Ireland",Ireland,9/24/2021,No,Computer Files
+Conti,IJmond Werkt,Government,"Beverwijk, Netherlands",Nederland,9/24/2021,No,Computer Files
+Conti,PeakLogix,Manufacturing,"Midlothian, VA",Kingdom,9/23/2021,No,Undisclosed
+Conti,Pines Ford Lincoln,Automotive,"Pembroke Pines, FL",States,9/23/2021,No,Undisclosed
+Conti,NASCO Industries,Manufacturing,"Fort Atkinson, WI",States,9/22/2021,No,Computer Files
+Conti,PowerGrid Services,Utilities,"Lake Mary, FL",States,9/22/2021,No,Computer Files
+Conti,aathonrton,Financial,"Modesto, CA",States,9/20/2021,No,Undisclosed
+Conti,ASSU 2000,Financial,"Noisy-le-Sec, France",France,9/11/2021,No,Computer Files
+Conti,Vendrig Holding B.V.,Financial,"Starnmeer, Netherlands",Nederland,9/9/2021,No,Computer Files
+Conti,Sanger & Altgelt Insurance Agents,Financial,"San Antonio, TX",States,9/9/2021,No,Computer Files
+Conti,RPE CONTRACTING,Construction,"Jakarta, Indonesia",Indonesia,9/9/2021,Yes,Computer Files
+Conti,Riwega S.R.L.,Construction,Egna BZ,Italia,9/9/2021,No,Computer Files
+Conti,MOSS BROS GROUP,Retail & Sales,"London, United Kingdom",Kingdom,9/9/2021,No,Computer Files
+Conti,JAMAC FROZEN FoodS,Food,"Jersey City, NJ",States,9/9/2021,No,Computer Files
+Conti,"Frank G. Love Envelopes, Inc.",Manufacturing,"Tulsa, OK",States,9/9/2021,No,Computer Files
+Conti,"Grupo Herdez, S.A.B. de C.V. Holding Companies",Food,Mexico,México,9/9/2021,No,Employee Data
+Conti,"HBD Industries, Inc.",Manufacturing,"Dublin, OH",States,9/9/2021,No,Computer Files
+Conti,"Engineered Specialty Products, Inc",Manufacturing,"Kennesaw, GA",States,9/9/2021,No,Employee Data
+Conti,Fischer Homes,Construction,"Erlanger, KY",States,9/9/2021,No,Employee Data
+Conti,B.P. MITCHELL HAULAGE CONTRACTORS LIMITED,Construction,HATFIELD,Kingdom,9/9/2021,No,Computer Files
+Conti,Electronic Environments Co. LLC,Retail & Sales,"Marlborough, MA",States,9/9/2021,No,Computer Files
+Conti,Bartec Gmbh,Manufacturing,Germany,Deutschland,9/9/2021,No,Employee Data
+Conti,"Marquez Brothers International, Inc.",Food,"San Jose, CA",States,9/9/2021,No,Entire System
+Conti,SOLWARE,Retail & Sales,"McKinney, TX",States,9/5/2021,No,Employee Data
+Conti,Hanwha Life Vietnam,Financial,vietnam,Vietnam,9/2/2021,Yes,Employee Data
+Conti,Duke Manufacturing Co.,Manufacturing,"SaintKufstein, Austria Louis, MO",States,9/2/2021,No,Employee Data
+Conti,Bob Poynter,Automotive,"North Vernon, IN.",States,9/1/2021,No,Computer Files
+Conti,DEBTIN CONSULTANTS (PTY) LTD,Retail & Sales,"NATAL, South Africa",Africa,9/1/2021,No,Entire System
+Conti,completeportables,Retail & Sales,"Collingwood, Australia",Australia,8/31/2021,Yes,Computer Files
+Conti,"Milwaukee World Festival, Inc",Entertainment,"Milwaukee, WI",States,8/31/2021,No,Computer Files
+Conti,world-electronics,Manufacturing,"Reading, PA",States,8/30/2021,No,Undisclosed
+Conti,MIDPLAZA HOLDING,Financial,"Jakarta, Indonesia",Indonesia,8/25/2021,Yes,Undisclosed
+Conti,Americo Manufacturing,Manufacturing,"Acworth, GA",States,8/25/2021,No,Undisclosed
+Conti,interflex,Manufacturing,"Wilkesboro, NC",States,8/17/2021,No,Entire System
+Conti,THREE RIVERS REGIONAL COMMISSION,Travel,"Griffin, GA",States,8/17/2021,No,Entire System
+Conti,usvision,Retail & Sales,"Blackwood, NJ",States,8/16/2021,No,Undisclosed
+Conti,thegreensheet,Advertising & Marketing,"Houston, TX",States,8/16/2021,No,Undisclosed
+Conti,SAC Wireless Inc,Manufacturing,"Chicago, IL",States,8/16/2021,No,Undisclosed
+Conti,Groupe Traon Industrie Development,Advertising & Marketing,"New York, NY",States,8/11/2021,No,Entire System
+Conti,Welliver,Construction,"Montour Falls, NY",States,8/10/2021,No,Undisclosed
+Conti,semperllc,Travel,"Boston, MA",States,8/5/2021,No,Undisclosed
+Conti,GBLS,Legal,"Boston, MA",States,8/5/2021,No,Undisclosed
+Conti,dimeo,Construction,"Providence, RI",States,8/5/2021,No,Undisclosed
+Conti,friedrich,Retail & Sales,"Bonn, Germany",Deutschland,8/5/2021,No,Undisclosed
+Conti,natpack,Retail & Sales,"Cairo Governorate, Egypt",Egypt,8/5/2021,No,Undisclosed
+Conti,fullspectrum,Retail & Sales,"Laguna Hills, CA",States,8/5/2021,No,Undisclosed
+Conti,cabico,Manufacturing,"Coaticook, Canada",Canada,8/5/2021,No,Undisclosed
+Conti,trybaarchitects,Construction,"Denver, CO",Colombia,8/5/2021,No,Undisclosed
+Conti,alliancemercantile,Retail & Sales,"Burnaby, Canada",Canada,8/5/2021,No,Undisclosed
+Conti,gallegosunited,Advertising & Marketing,"Huntington Beach, CA",States,8/5/2021,No,Undisclosed
+Conti,"B&H Construction, L.L.C.",Construction,"Oklahoma City, OK",States,8/3/2021,No,Entire System
+Conti,DAVACO Inc,Construction,"Irving, TX",States,8/2/2021,No,Entire System
+Conti,kontron ST group,Technology,"Ismaning, Germany",Deutschland,7/31/2021,No,Computer Files
+Conti,infovista,Technology,"Massy, France",France,7/31/2021,No,Entire System
+Conti,keltbray,Construction,"Esher, United Kingdom",Kingdom,7/27/2021,No,Entire System
+Conti,habasit,Retail & Sales,"Reinach, Switzerland",Schweiz/Suisse/Svizzera/Svizra,7/27/2021,No,Entire System
+Conti,aris-services,Advertising & Marketing,"Greensboro, NC",States,7/27/2021,No,Entire System
+Conti,Revision Skincare.,Healthcare,"Irving, TX",States,7/27/2021,No,Entire System
+Conti,HUF GROUP,Manufacturing,"Velbert, Germany",Deutschland,7/23/2021,No,Undisclosed
+Conti,imasa,Retail & Sales,"Guadalajara, Mexico",México,7/20/2021,No,Entire System
+Conti,Pure Power Technologies,Utilities,"Blythewood, SC",States,7/20/2021,No,Undisclosed
+Conti,Beckley,Healthcare,"Beckley, WV",States,7/19/2021,No,Undisclosed
+Conti,Actiontec,Technology,"Santa Clara, CA",States,7/19/2021,No,Entire System
+Conti,INSERM-TRANSFER,Technology,"Paris, France",France,7/19/2021,No,Undisclosed
+Conti,Lucky Star Casino,Entertainment,"Concho, OK",States,7/19/2021,No,PII
+Conti,KOMPAN A/S,Manufacturing,"Pflugerville, TX",States,7/17/2021,No,PII
+Conti,ALBIOMA,Technology,"Paris, France",France,7/12/2021,No,Undisclosed
+Conti,RIB GROUP,Technology,"Memphis, TN",States,7/9/2021,No,Computer Files
+Conti,Proponent,Logistics and Supply,"Brea, CA",States,7/9/2021,No,Entire System
+Conti,Goetze Dental,Healthcare,"Kansas City, MO",States,7/8/2021,No,Entire System
+Conti,supplyforce,Retail & Sales,"King of Prussia, PA",States,7/5/2021,No,Undisclosed
+Conti,friedrich,Retail & Sales,"Bonn, Germany",Deutschland,7/5/2021,No,Undisclosed
+Conti,Vogel Heating & Cooling,Manufacturing,"Fenton, MO",States,7/1/2021,No,PII
+Conti,Dynamic NC,Manufacturing,"Rose Hill, KS",States,6/29/2021,No,Entire System
+Conti,The Brock Group,Construction,"Houston, TX",States,6/29/2021,No,PII
+Conti,The Waterloo Networking Company,Technology,"Waterloo, Canada",Canada,6/25/2021,No,Undisclosed
+Conti,Southern Eagle Distributing,Logistics and Supply,"Charleston, SC",States,6/25/2021,No,Undisclosed
+Conti,Perfume Worldwide Inc.,Retail & Sales,"Old Bethpage, NY",States,6/25/2021,No,Undisclosed
+Conti,Lareau Courtiers dâ€™assurances,Financial,"Napierville, Canada",Canada,6/25/2021,No,Undisclosed
+Conti,"Nickerson Insurance Services, Inc",Financial,"Lomita, CA",States,6/25/2021,No,Undisclosed
+Conti,Sleep Outfitters,Retail & Sales,"Lexington, KY",States,6/25/2021,No,Undisclosed
+Conti,FNA GROUP,Manufacturing,"Pleasant Prairie, WI",States,6/25/2021,No,Undisclosed
+Conti,Concept Building Services,Retail & Sales,"Midhurst, United Kingdom",Kingdom,6/25/2021,No,Computer Files
+Conti,Scott Felder Homes,Construction,"Austin, TX",States,6/25/2021,No,Entire System
+Conti,Complete Automation,Manufacturing,"Lake Orion, MI",States,6/23/2021,No,Entire System
+Conti,Brown Strauss Steel,Manufacturing,"Aurora, CO",Colombia,6/23/2021,No,Entire System
+Conti,Voltalia,Utilities,"Paris, France",France,6/23/2021,No,Entire System
+Conti,Uniware Systems,Technology,"Neuilly-sur-Seine, France",France,6/23/2021,No,Entire System
+Conti,Cerfrance Côtes d'Armor,Financial,"Plérin, France",France,6/23/2021,No,Entire System
+Conti,USI,Manufacturing,"Saint Paul, Minnesota",States,6/23/2021,No,Computer Files
+Conti,East Texas Alarm,Technology,"Tyler, TX",States,6/23/2021,No,Computer Files
+Conti,Antwerp Local Schools,Government,"Antwerp, Belgium",Belgien,6/22/2021,No,Computer Files
+Conti,City of Tulsa,Government,"Tulsa, OK",States,6/22/2021,No,Undisclosed
+Conti,"Southwest Recovery Services, LLC",Essential Services,"Houston, TX",States,6/20/2021,No,Entire System
+Conti,Ascenz,Technology,Singapore,Singapore,6/18/2021,Yes,Entire System
+Conti,Windmill Health Products,Healthcare,"Los Angeles, NJ",Colombia,6/18/2021,No,Undisclosed
+Conti,MaÃ®tre Prunille,Food,"Casseneuil, France",France,6/18/2021,No,Undisclosed
+Conti,Groupe ISERBA,Financial,"Beynost, France",France,6/17/2021,No,Undisclosed
+Conti,BRANGEON Groupe,Logistics and Supply,"La Pommeraye, France",France,6/17/2021,No,Undisclosed
+Conti,Au Forum Du Batiment SAS,Utilities,"Paris, France",France,6/17/2021,No,Undisclosed
+Conti,DirickX,Retail & Sales,"Congrier, France",France,6/17/2021,No,Entire System
+Conti,Filtertek,Manufacturing,"Hebron, IL",States,6/17/2021,No,Entire System
+Conti,SEVES Group SpA,Manufacturing,"Florence, Italy",Italia,6/17/2021,No,Entire System
+Conti,Contrast Lighting,Manufacturing,"Quebec, Canada",Canada,6/17/2021,No,Entire System
+Conti,University of Corboda,Education,"Córdoba, Spain",España,6/17/2021,No,Entire System
+Conti,National Louis University,Education,"Chicago, IL",States,6/17/2021,No,Computer Files
+Conti,Sunsations Inc.,Healthcare,"Oxford, MS",States,6/17/2021,No,Entire System
+Conti,eCapital,Technology,"Minneapolis, MN",States,6/16/2021,No,Computer Files
+Conti,La Innovacion,Retail & Sales,"Santo Domingo, Dominican Republic",Dominicana,6/15/2021,No,Entire System
+Conti,DSD PARTNERS,Food,"Richmond, VA",Canada,6/14/2021,No,Entire System
+Conti,Stride Tool,Manufacturing,"Solon, OH",States,6/10/2021,No,PII
+Conti,Technical University of Berlin,Education,"Berlin, Germany",Deutschland,6/10/2021,No,Computer Files
+Conti,"hentzen Coatings, Inc.",Healthcare,"Milwaukee, WI",States,6/9/2021,No,Computer Files
+Conti,TPI Corporation,Retail & Sales,"Des Moines, IA",States,6/9/2021,No,Computer Files
+Conti,Romeo Engineering Inc,Logistics and Supply,"Fort Worth, TX",States,6/9/2021,No,Computer Files
+Conti,Image one,Technology,"Bensalem, PA",States,6/8/2021,No,Undisclosed
+Conti,OpTech Staffing Solutions,Technology,"Troy, MI",States,6/8/2021,No,Computer Files
+Conti,Thomas Westcott,Financial,"Exeter, United Kingdom",Kingdom,6/8/2021,No,Computer Files
+Conti,PLURIPHARMA SRL,Advertising & Marketing,"San Lazzaro di Savena BO, Italy",Italia,6/7/2021,No,Undisclosed
+Conti,Funbreak,Travel,"Paris, France",France,6/7/2021,No,Entire System
+Conti,Birmingham Barons,Sport & Recreation,"Birmingham, AL",States,6/7/2021,No,Entire System
+Conti,Xpressdocs,Advertising & Marketing,"Fort Worth, TX",States,6/7/2021,No,Entire System
+Conti,A&A MECHANICAL,Manufacturing,"Mc Kees Rocks, PA",States,6/6/2021,No,Undisclosed
+Conti,"Nissin International Transport U.S.A., Inc.",Logistics and Supply,"Torrance, CA",States,6/4/2021,No,Entire System
+Conti,Strongco,Retail & Sales,"Mississauga, Canada",Canada,6/4/2021,No,Entire System
+Conti,Plimpton and Hills Corp,Utilities,"Hartford, CT",States,6/2/2021,No,Entire System
+Conti,Temmel Logistik Center,Logistics and Supply,Messendorfgrund 10 Graz,Österreich,6/1/2021,No,Entire System
+Conti,DSD PARTNERS,Food,"Richmond, VA",Canada,5/31/2021,No,Undisclosed
+Conti,Flaghouse,Retail & Sales,"Hasbrouck Heights, NJ",States,5/25/2021,No,Entire System
+Conti,BVA Group,Financial,"Plano, TX",States,5/25/2021,No,Entire System
+Conti,Finolex Cables Ltd.,Manufacturing,"Pune, India",India,5/24/2021,Yes,PII
+Conti,Moor Park High School,Education,"Moor Park Ave, Preston PR1 6DT,",Kingdom,5/24/2021,No,Entire System
+Conti,PT. Realta Chakradarma,Technology,"Jakarta, Indonesia",Indonesia,5/21/2021,Yes,Entire System
+Conti,TELCAL srl,Manufacturing,"MERATE, LECCO, Italy",Italia,5/20/2021,No,Undisclosed
+Conti,"Michael Stevens Interests, Inc.",Financial,"Houston, TX",States,5/20/2021,No,Undisclosed
+Conti,MHA MacIntyre Hudson,Financial,"London, United Kingdom",Kingdom,5/20/2021,No,Undisclosed
+Conti,ResCon Group,Advertising & Marketing,"Bethesda, MD",States,5/20/2021,No,Undisclosed
+Conti,Loudoun Mutual Insurance Company,Financial,"Waterford, VA",Ireland,5/20/2021,No,Computer Files
+Conti,ARWORLD,Manufacturing,"Souderton, PA",States,5/20/2021,No,Undisclosed
+Conti,AZ INVESTIGATION,Retail & Sales,"Las Vegas, NV",States,5/20/2021,No,Undisclosed
+Conti,DigiCon Technologies Limited,Retail & Sales,"Dhaka, Bangladesh",India,5/20/2021,Yes,Undisclosed
+Conti,"Hentzen Coatings, Inc.",Manufacturing,"Milwaukee, WI",States,5/20/2021,No,Undisclosed
+Conti,LG CNS,Technology,"Seoul, South Korea",South Korea,5/20/2021,Yes,Undisclosed
+Conti,Mauffrey Group,Logistics and Supply,"Lorraine, France",France,5/20/2021,No,Undisclosed
+Conti,Seifert Logistics and Supply Group,Logistics and Supply,"Ulm, Germany",Deutschland,5/20/2021,No,Undisclosed
+Conti,"Ash Industries, Inc.",Manufacturing,"Lafayette, LA",States,5/20/2021,No,Undisclosed
+Conti,Cable Color S.A. de C.V.,Technology,Honduras,Honduras,5/20/2021,No,Undisclosed
+Conti,Cairns Marine,Manufacturing,"Stratford, Australia",Australia,5/20/2021,Yes,Undisclosed
+Conti,"Birtcher Anderson & Davis Associates, Inc.",Legal,"Tallahassee, FL",States,5/20/2021,No,Undisclosed
+Conti,"Creative Liquid Coatings, Inc",Manufacturing,"Fort Wayne, IN",States,5/20/2021,No,Undisclosed
+Conti,empire physicians Medical Group,Healthcare,"Palm Desert, CA",States,5/19/2021,No,Entire System
+Conti,Intermountain Farmers Association,Manufacturing,"South Salt Lake, UT",States,5/19/2021,No,Entire System
+Conti,Tasman Butchers,Retail & Sales,Friars Road Moorabbin,Australia,5/18/2021,Yes,Entire System
+Conti,Wizie,Technology,"Farmington, MI",States,5/13/2021,No,Undisclosed
+Conti,Bee County Texas,Technology,"Beeville, TX",States,5/13/2021,No,Entire System
+Conti,MISSION IMPRINTABLES,Retail & Sales,"San Diego, CA",States,5/7/2021,No,Entire System
+Conti,PCH International,Manufacturing,"San Francisco, CA",States,5/6/2021,No,Entire System
+Conti,TRACTOR CENTRAL,Manufacturing,"Eau Claire, WI",States,5/5/2021,No,Entire System
+Conti,Jacquet Metals Group,Manufacturing,"Nanterre, France",France,5/3/2021,No,PII
+Conti,Travers Tool Co Inc,Manufacturing,"Flushing, NY",States,5/3/2021,No,Undisclosed
+Conti,PNGC Power,Utilities,"Portland, OR",States,5/3/2021,No,Entire System
+Conti,Party Rental LTD,Retail & Sales,"Teterboro, NJ",States,5/3/2021,No,Entire System
+Conti,Options Greathire Ltd,Retail & Sales,"Feltham, Greater London,",Kingdom,5/3/2021,No,Entire System
+Conti,Matco-Norca,Manufacturing,"Brewster, NY",States,5/3/2021,No,Entire System
+Conti,Interfel Corp,Manufacturing,"Paris, France",France,5/3/2021,No,Entire System
+Conti,Edifice General Contractors,Construction,"Nāgpur, India",India,5/3/2021,Yes,Entire System
+Conti,Bertucci,Food,"Northborough, MA",States,5/3/2021,No,Entire System
+Conti,Citizens Of Humanity,Manufacturing,"Huntington Park, CA",States,5/3/2021,No,Entire System
+Conti,C.E.E. Schisler Packaging Solutions,Manufacturing,"Thouars, France",France,5/3/2021,No,Entire System
+Conti,CAVENDERS,Retail & Sales,"Tyler, TX",States,4/30/2021,No,Entire System
+Conti,Capmatic,Manufacturing,"Montreal, Canada",Canada,4/28/2021,No,Entire System
+Conti,SpecPage,Manufacturing,"Küssnacht, Switzerland",Schweiz/Suisse/Svizzera/Svizra,4/23/2021,No,Entire System
+Conti,aspire inc,Advertising & Marketing,"Singapore, Singapore",Singapore,4/23/2021,Yes,Entire System
+Conti,Hensley Beverage Company,Manufacturing,"Phoenix, AZ",States,4/23/2021,No,Entire System
+Conti,Readie Construction Ltd,Construction,"Harold Hill, Romford",Kingdom,4/22/2021,No,Undisclosed
+Conti,Precision Terminal Logistics and Supply,Technology,"Sewickley, PA, United States",States,4/22/2021,No,Undisclosed
+Conti,HW Fisher,Financial,"London, United Kingdom",Kingdom,4/22/2021,No,Undisclosed
+Conti,HumanWare,Manufacturing,"Drummondville, Canada",Canada,4/22/2021,No,Undisclosed
+Conti,Ford Meter Box,Manufacturing,"Wabash, IN",States,4/22/2021,No,Undisclosed
+Conti,Cairn Capital,Financial,"London, United Kingdom",Kingdom,4/22/2021,No,Entire System
+Conti,Bauder Roofing Solutions,Manufacturing,"Ipswich, United Kingdom",Kingdom,4/22/2021,No,Entire System
+Conti,Apperton,Healthcare,"Grenoble, France",France,4/22/2021,No,Entire System
+Conti,SG World,Manufacturing,"Crewe, United Kingdom",Kingdom,4/22/2021,No,Entire System
+Conti,New England Finish Systems,Construction,"Salem, NH",States,4/22/2021,No,Entire System
+Conti,DDSG Logistics and Supply,Logistics and Supply,"Vienna, Austria",Österreich,4/22/2021,No,Entire System
+Conti,Lauzon Flooring,Retail & Sales,"Papineauville, Québec",Canada,4/22/2021,No,Undisclosed
+Conti,The Village Vets,Retail & Sales,"Decatur, GA",States,4/22/2021,No,Undisclosed
+Conti,Kaleidoscope Charter School,Education,"Otsego, MN",States,4/22/2021,No,Entire System
+Conti,Broward County Public Schools,Education,"Fort Lauderdale, FL",States,4/19/2021,No,Entire System
+Conti,Faxinating Solutions,Technology,"Pointe-Claire, Canada",Canada,4/10/2021,No,Undisclosed
+Conti,Comfort Keepers,Healthcare,"Irvine, CA",States,4/9/2021,No,Undisclosed
+Conti,TRACEY FOX KING & WALTERS,Legal,"Houston, TX 77002, United States",States,4/9/2021,No,Entire System
+Conti,Pitt Plastics LLC,Retail & Sales,"Tampa, FL",States,4/9/2021,No,Entire System
+Conti,groupe-upperside,Retail & Sales,"Paris, France",France,4/6/2021,No,Entire System
+Conti,Klenda Austerman LLC,Legal,"Wichita, KS",States,4/6/2021,No,Entire System
+Conti,cross city church,Religious industry,"Euless, TX",States,4/6/2021,No,Entire System
+Conti,FE Moran Security Solutions,Technology,"Champaign, IL",States,4/5/2021,No,Entire System
+Conti,CODIFER S.A.S,Construction,"Bogotá, Colombia",Colombia,4/1/2021,No,Undisclosed
+Conti,City of Kingman,Government,"Kingman, AZ",States,3/26/2021,No,Entire System
+Conti,Buddy Gregg RVs and Motor Homes,Automotive,"Knoxville, TN",States,3/24/2021,No,Entire System
+Conti,cross city church,Religious industry,"Euless, TX",States,3/24/2021,No,Entire System
+Conti,TL Machine,Manufacturing,"Garden Grove, CA",States,3/23/2021,No,Employee Data
+Conti,Diamonds international,Retail & Sales,"Milan, Italy",Italia,3/23/2021,No,PII
+Conti,Health Aid Of Ohio,Healthcare,"Parma, OH",States,3/17/2021,No,Entire System
+Conti,Advantech,Technology,"Taipei, Taiwan",Taiwan,3/17/2021,Yes,Entire System
+Conti,"Lincoln County, Washington",Government,"Washington: Davenport, WA",States,3/17/2021,No,Entire System
+Conti,Holly Poultry LLC,Food,"Baltimore, MD",States,3/17/2021,No,Entire System
+Conti,Vander-Bend Manufacturing,Manufacturing,"San Jose, CA",States,3/17/2021,No,Entire System
+Conti,SET Enterprises Inc,Manufacturing,"Warren, MI",States,3/17/2021,No,Entire System
+Conti,Nenplas Company,Manufacturing,"Ashbourne, United Kingdom",Kingdom,3/17/2021,No,Entire System
+Conti,LivaNova PLC,Healthcare,"London, United Kingdom",Kingdom,3/16/2021,No,Entire System
+Conti,capmar,Advertising & Marketing,"Raleigh, NC",States,3/16/2021,No,Computer Files
+Conti,Amaroo Village,Essential Services,"Gosnells , Australia",Australia,3/11/2021,Yes,Entire System
+Conti,Nienkamper Furniture & Accessories Inc,Manufacturing,"Scarborough, ON",Canada,3/10/2021,No,Entire System
+Conti,"Area Diesel Service, Inc.",Automotive,"Indianapolis, IN",States,3/10/2021,No,Entire System
+Conti,White Management Corp,Entertainment,"Los Angeles, CA",States,3/9/2021,No,Computer Files
+Conti,mclellanindustries,Manufacturing,"South San Francisco, CA",States,3/8/2021,No,Undisclosed
+Conti,Ajax TOCCO,Manufacturing,"Warren, OH",States,3/4/2021,No,Entire System
+Conti,The Brevard County Sheriff,Government,"Titusville, FL",States,3/4/2021,No,Undisclosed
+Conti,ExideÂ Technologies,Manufacturing,"Milton, GA",Kingdom,3/4/2021,No,Entire System
+Conti,H-E-B Center at Cedar Park,Entertainment,"Cedar Park, TX",States,3/4/2021,No,Undisclosed
+Conti,C.A.T. Inc,Technology,"Lisbon, Portugal",Portugal,3/4/2021,No,Entire System
+Conti,Christensen O Connor Johnson Kindness,Financial,"Seattle, WA",States,3/4/2021,No,Entire System
+Conti,morris costumes,Retail & Sales,"Charlotte, NC",States,3/2/2021,No,Entire System
+Conti,Willdan Group,Utilities,"Anaheim, CA",States,3/1/2021,No,Entire System
+Conti,Island Pacific,Technology,"Santa Ana, CA",States,3/1/2021,No,Entire System
+Conti,Caster Concepts,Manufacturing,"Albion, Michigan, United States",States,2/25/2021,No,Entire System
+Conti,J Rosenthal and Son,Manufacturing,"Radcliffe, United Kingdom",Kingdom,2/24/2021,No,Entire System
+Conti,"Atlantic, Tomorrow",Technology,"New York, NY",States,2/24/2021,No,Entire System
+Conti,Custom Made Meals,Food,"Denver, CO",Colombia,2/24/2021,No,Entire System
+Conti,The International Society of Automation,Logistics and Supply,"Durham, NC",States,2/24/2021,No,Entire System
+Conti,PartsBase,Logistics and Supply,"Boca Raton, FL",States,2/24/2021,No,Undisclosed
+Conti,Neil Kelly,Construction,"Portland, OR",States,2/24/2021,No,Undisclosed
+Conti,Romero Gamero,Construction,spain,España,2/24/2021,No,Undisclosed
+Conti,Blue Projectc Inc,Retail & Sales,"Bucharest, Romania",România,2/24/2021,No,Entire System
+Conti,Valley Wide Cooperative,Manufacturing,"Nampa, ID",States,2/24/2021,No,Entire System
+Conti,Smith,Retail & Sales,"Clearfield, UT",States,2/24/2021,No,Entire System
+Conti,MNA Advertising & Marketing,Advertising & Marketing,"Wolverhampton, United Kingdom",Kingdom,2/24/2021,No,Entire System
+Conti,B Green Retail & Sales,Retail & Sales,Baltimore,States,2/24/2021,No,Entire System
+Conti,PFF Group UK,Manufacturing,"Keighley, KS",States,2/24/2021,No,Entire System
+Conti,SMC Industries,Manufacturing,"Tokyo, Japan",Japan,2/23/2021,Yes,Entire System
+Conti,Syndiant,Manufacturing,"Dallas, TX",States,2/17/2021,No,Entire System
+Conti,Tirrena Scavi,Construction,"Massarosa, Italy",Italia,2/17/2021,No,Entire System
+Conti,Total Fitness,Fitness,"Bristol, RI",Kingdom,2/17/2021,No,Entire System
+Conti,SkyeTec,Utilities,"Jacksonville, FL",States,2/16/2021,No,Computer Files
+Conti,Supply New England,Utilities,"Attleboro, MA",States,2/16/2021,No,Entire System
+Conti,"Pace Center for Girls, Inc.",Education,"Jacksonville, Florida",States,2/13/2021,No,Entire System
+Conti,Innovsource,Financial,"Mumbai, India",India,2/13/2021,Yes,Entire System
+Conti,Prima Frutta,Manufacturing,"Linden, CA",States,2/12/2021,No,Entire System
+Conti,Leon Medical Centers,Healthcare,"Miami, FL",States,2/12/2021,No,Entire System
+Conti,Scotch Plywood Company,Manufacturing,"Fulton, AL",Canada,2/11/2021,No,Entire System
+Conti,Trudeau Corporation Inc,Manufacturing,"Boucherville, Canada",States,2/10/2021,No,Undisclosed
+Conti,Penn Emblem,Advertising & Marketing,"Trevose, PA",States,2/10/2021,No,Entire System
+Conti,Nocona General Hospital,Healthcare,"Nocona, TX",Canada,2/10/2021,No,Undisclosed
+Conti,remaxkelowna,Retail & Sales,"Kelowna, BC",Deutschland,2/10/2021,No,Undisclosed
+Conti,Netcom Kassel,Technology,"Kassel, Germany",States,2/8/2021,No,Entire System
+Conti,ColorPoint Print,Retail & Sales,"Troy, MI",States,2/8/2021,No,Entire System
+Conti,MUNOZ TRUCKING,Retail & Sales,"North Arlington, NJ",States,2/5/2021,No,Entire System
+Conti,"DOUG HOLLYHAND REALTY, INC.",Construction,"Northport, AL",States,2/3/2021,No,Entire System
+Conti,Allegheny InterAdvertising & Marketingte Unit,Education,"Homestead, PA",Canada,1/31/2021,No,Computer Files
+Conti,VENTILABEC,Construction,"Laval, Canada",States,1/27/2021,No,Entire System
+Conti,Orcas Naturals,Manufacturing,"Roxbury Township, NJ",States,1/26/2021,No,Computer Files
+Conti,CARLBELT,Construction,"Cumberland, MD",States,1/25/2021,No,Entire System
+Conti,Murchison & Cumming,Legal,"Los Angeles, CA",States,1/25/2021,No,Entire System
+Conti,"Warren, Washington and Albany Counties ARC",Essential Services,"Queensbury, NY",States,1/23/2021,No,Entire System
+Conti,Gulf Copper,Retail & Sales,"Port Arthur, TX",States,1/22/2021,No,Entire System
+Conti,Rotek Incorporated,Manufacturing,"Aurora, OH",States,1/22/2021,No,Entire System
+Conti,Sunny Hills Management Co,Financial,"West Covina, CA",States,1/21/2021,No,Undisclosed
+Conti,Metroplex Cabinets,Manufacturing,"Corinth, TX",States,1/21/2021,No,Entire System
+Conti,Scottish environment protection agency,Utilities,"Stirling, United Kingdom",Kingdom,1/21/2021,No,Entire System
+Conti,Stark Metal Sales Inc,Manufacturing,"Canton, OH",States,1/21/2021,No,Entire System
+Conti,John Brooks Company,Manufacturing,"Mississauga, Canada",Canada,1/20/2021,No,Entire System
+Conti,MEDTRON,Healthcare,"Covington, LA",States,1/20/2021,No,Entire System
+Conti,The Fayette County Emergency Management Agency,Government,"Uniontown, PA",States,1/20/2021,No,Computer Files
+Conti,Legacyfarms LLC,Retail & Sales,"Pierson, FL",States,1/19/2021,No,Undisclosed
+Conti,Fattorie Garofalo Soc. Coop. Agricola,Retail & Sales,"Capua CE, Italy",Italia,1/19/2021,No,Entire System
+Conti,Creccal Investments Ltd / company profile,Financial,"Westmount, Canada",Canada,1/19/2021,No,Computer Files
+Conti,Sangoma,Technology,"Markham, Canada",Canada,1/19/2021,No,Entire System
+Conti,Schick Civil Construction Ltd,Construction,"Hamilton, New Zealand",Aotearoa,1/15/2021,Yes,Entire System
+Conti,The Abaco Club on Winding Bay,Entertainment,"Marsh Harbour, Bahamas",Bahamas,1/15/2021,No,Entire System
+Conti,Gastroenterology Consultants,Healthcare,"Evans, GA",States,1/13/2021,No,Entire System
+Conti,Legacy Farms Llc,Food,"Baltimore, MD",States,1/12/2021,No,Undisclosed
+Conti,Ashland Technologies,Manufacturing,"Wilmington, DE",States,1/11/2021,No,Computer Files
+Conti,NORWESCAP,Essential Services,"Phillipsburg, NJ",States,1/11/2021,No,Entire System
+Conti,Weslaco Independet School District,Education,"Weslaco, TX",States,1/11/2021,No,Entire System
+Conti,DeLonghi America Inc.,Manufacturing,"Upper Saddle River, NJ",States,1/11/2021,No,Entire System
+Conti,Tsys Payment Solutions,Financial,"Columbus, GA",States,1/11/2021,No,Entire System
+Conti,"Taylor Made Diagnostics, Inc",Healthcare,"Chesapeake, VA",States,1/8/2021,No,Entire System
+Conti,G&D Integrated,Logistics and Supply,"Morton, IL",States,1/6/2021,No,Entire System
+Conti,White Management Corp.,Entertainment,"Los Angeles, CA",States,1/6/2021,No,Entire System
+Conti,Newmark Grubb|CBI,Financial,"Appleton, WI",States,1/5/2021,No,Entire System
+Conti,The Bay Family of Companies,Retail & Sales,"Green Bay, WI",States,12/26/2020,No,Entire System
+Conti,UniPro Foodservice,Manufacturing,"Atlanta, GA",States,12/24/2020,No,Entire System
+Conti,CareersUSA,Retail & Sales,"Boca Raton, FL",States,12/24/2020,No,Entire System
+Conti,The Broe Group,Utilities,"Denver, CO",Colombia,12/24/2020,No,Entire System
+Conti,220 Laboratories,Manufacturing,"Riverside, CA",States,12/24/2020,No,Entire System
+Conti,seth wadley auto group,Financial,"Pauls Valley, OK",States,12/23/2020,No,Entire System
+Conti,"Illuma Lighting Ltd. Illuma Commercial, Retail & Sales",Manufacturing,"Derbyshire,",Kingdom,12/19/2020,No,Entire System
+Conti,Intersport GmbH,Retail & Sales,"Bern, Switzerland",Schweiz/Suisse/Svizzera/Svizra,12/16/2020,No,Entire System
+Conti,VLC Distribution INC,Retail & Sales,"houstan, TX",States,12/16/2020,No,Entire System
+Conti,floridapaints,Retail & Sales,"Orlando, FL",States,12/15/2020,No,Undisclosed
+Conti,Samson Holding,Manufacturing,"Dongguan, China",China,12/14/2020,No,Entire System
+Conti,La Prensa De San Antonio,Advertising & Marketing,"San Antonio, TX",States,12/14/2020,No,Undisclosed
+Conti,Hantover Inc,Manufacturing,"Overland Park, KS",States,12/12/2020,No,Undisclosed
+Conti,Kiolbassa Smoked Meats,Food,"San Antonio, TX",States,12/11/2020,No,Entire System
+Conti,"Stewart, Gee-Murray cpa llp",Financial,Saskatoon SK,Canada,12/9/2020,No,Undisclosed
+Conti,HT Medica,Healthcare,"Madrid, Spain",España,12/9/2020,No,Undisclosed
+Conti,Quench,Utilities,"King of Prussia, PA",States,12/8/2020,No,Entire System
+Conti,"Great Southern Wood Preserving, Incorporated",Manufacturing,"Abbeville, AL",States,12/7/2020,No,Undisclosed
+Conti,Taylor County Appraisal District,Financial,"Abilene, TX",States,12/4/2020,No,Undisclosed
+Conti,ProTel,Technology,"Dortmund, Germany",Deutschland,12/4/2020,No,Undisclosed
+Conti,Riverside Community Care Inc,Essential Services,"Dedham, MA",States,12/3/2020,No,Undisclosed
+Conti,"Tricull Industries, Inc. Cleaning Systems Company",Retail & Sales,"Mount Vernon, NY",States,12/2/2020,No,Undisclosed
+Conti,Ixsight Technologies Pvt Ltd,Technology,"Maharashtra, India",India,12/2/2020,No,Undisclosed
+Conti,Conn Selmer,Manufacturing,"Elkhart, Indiana, United States",States,11/30/2020,No,Entire System
+Conti,BretzRV,Automotive,"Missoula, MT",States,11/27/2020,No,Entire System
+Conti,Sunland Asphalt & Construction,Construction,"Phoenix, AZ",States,10/23/2020,No,Undisclosed
+Conti,Hill Brothers Chemical Co. & Morgan Fabrics Corporation,Utilities,"Brea, CA",States,10/12/2020,No,Undisclosed
+Conti,West End Lumber & Building Materials Supply,Retail & Sales,"Bridgeport, CT",States,9/24/2020,No,Undisclosed
+Conti,Royal Manitoba Theatre Centre,Entertainment,"Winnipeg, Canada",Canada,9/11/2020,No,Undisclosed
+Conti,Refrigeration Noel Inc,Retail & Sales,"Québec, QC",Canada,9/9/2020,No,Undisclosed
+Conti,a1fiberglass,Manufacturing,"Hastings, NE",Kingdom,9/8/2020,No,Undisclosed
+Conti,Murray Engineering PTY Ltd & FSI Architecture PC,Retail & Sales,"Waco, TX",States,9/2/2020,No,Undisclosed
+Conti,"Naman Howell Smith & Lee, PLLC",Legal,"Waco, TX",States,8/28/2020,No,Undisclosed
+Conti,"Echols Oil Company, Inc",Retail & Sales,"Greenville, SC",States,8/27/2020,No,Undisclosed
+Conti,Axxess International Inc,Logistics and Supply,"Montreal, Canada",Canada,,No,Undisclosed
+Conti,Master Kid Inc,Manufacturing,"Montréal, QC,",Canada,,No,Undisclosed
+Conti,McCloskey Mechanical Contractors,Construction,"Clementon, NJ",States,,No,Undisclosed
+Conti,Joliet Park District,Government,"Joliet, IL",States,,No,Undisclosed
+Conti,Yorkcontainer,Manufacturing,"York, PA",States,,No,Undisclosed
+Conti,Landmarkresort hotel beach,Entertainment,"Virginia Beach, VA",States,,No,Computer Files
+Conti,Marriott international inc,Hospitality,"Washington, D.C., United States",States,,No,Computer Files
+Conti,"Hms Insurance Associates, Inc",Financial,"Hunt Valley, MD",States,,No,Computer Files
+Conti,electric gas industries association inc,Utilities,"Marietta, GA",States,,No,Computer Files
+Conti,Sice Inc,Technology,"Alcobendas, Spain",España,,No,Computer Files
+Conti,Hershey Equipment Co Inc,Retail & Sales,"Lancaster, PA",States,,No,Computer Files
+Conti,GAR Equipment,Manufacturing,"Columbus, WI",States,,No,Computer Files
+Conti,Lhc Group Inc,Healthcare,"Lafayette, LA",States,,No,Computer Files
+Conti,LF ILLUMINATION LLC,Manufacturing,"Chatsworth, CA",States,,No,Computer Files
+Conti,Florida Chamber of Commerce,Essential Services,"Tallahassee, FL",States,,No,Computer Files
+Conti,VIP Computers LLC,Technology,"Kent, WA",States,,No,Computer Files
+Conti,LH EVANS,Retail & Sales,"Cardiff, United Kingdom",Kingdom,,No,Computer Files
+Conti,Westland Horticulture,Manufacturing,"Dungannon, United Kingdom",Kingdom,,No,Computer Files
+Conti,Peugeot Motocycles,Automotive,"Mandeure, France",France,,No,Computer Files
+Conti,Temgroupinc,Utilities,"Kentucky, United States",States,,No,Computer Files
+Conti,Visual Impressions,Retail & Sales,"Milwaukee, WI",States,,No,Computer Files
+Conti,M3P Directional Services,Construction,"Midland, TX",States,,No,Computer Files
+Conti,Aigües de Terrassa,Utilities,"Barcelona, Spain",España,,No,Computer Files
+Conti,Precision Tandems Inc,Manufacturing,"Britton, SD",States,,No,Computer Files
+Conti,National Wire Cable Corporation,Manufacturing,"Los Angeles, CA",States,,No,Computer Files
+Conti,Ventura Orthopedics,Healthcare,"Ventura, CA",States,,No,Computer Files
+Conti,The Volkswagen Group,Automotive,"Wolfsburg, Germany",Deutschland,,No,Computer Files
+Conti,Pontotoc County Sheriffâ€™s Office,Government,"Pontotoc, MS",States,,No,Computer Files
+Conti,Filtration Group,Manufacturing,"Oak Brook, IL",States,,No,Computer Files
+Conti,Carbon Power and Light,Utilities,"Lehi, UT",States,,No,Computer Files
+Conti,City of Rocky Mount,Essential Services,"Rocky Mount, NC",States,,No,Computer Files
+Conti,QRG,Retail & Sales,"Minneapolis, MN",States,,No,Computer Files
+Conti,Gestoria Auto Gestion,Construction,"Barcelona, Spain",España,,No,Computer Files
+Conti,The Dobco Group,Construction,"Wayne, NJ",States,,No,Computer Files
+Conti,Bruckner Truck Sales Inc,Automotive,"Amarillo, TX",States,,No,Computer Files
+Conti,Johnbear,Automotive,"St. Catharines, Canada",Canada,,No,Computer Files
+Conti,Marie Claire Boutiques,Retail & Sales,"Paris, France",France,,No,Computer Files
+Conti,Sandream Impact LLC,Manufacturing,"Fairfield, NJ",States,,No,Computer Files
+Conti,Soloptical,Retail & Sales,"Malagón, Spain",España,,No,Computer Files
+Conti,"VUTEQ CORPORATION, LTD.",Automotive,"Chonburi, Thailand.",Thailand,,Yes,Computer Files
+Conti,Adams County Memorial Hospital,Healthcare,"Decatur, IN",States,,No,Computer Files
+Conti,M and M Merchandisers,Manufacturing,"Fort Worth, TX",States,,No,Computer Files
+Conti,OCA Global,Retail & Sales,"Barcelona, Spain",España,,No,Computer Files
+Conti,Our Lady of the Most Holy Rosary Catholic Community,Religious industry,"Albuquerque, NM",States,,No,Computer Files
+Conti,PanReac AppliChem ITW Reagents Division,Manufacturing,"Chicago IL, US.",States,,No,Computer Files
+Conti,"Pilkington Commercial Co., Inc.",Construction,"Arizona, United States",States,,No,Computer Files
+Conti,CCB Packaging Inc,Manufacturing,"Hiawatha, IA",States,,No,Computer Files
+Conti,Beler Holdings Inc,Retail & Sales,"Mississauga, ONTARIO",Canada,,No,Computer Files
+Conti,"Cambria County, Pennsylvania",Government,"Philadelphia, PA",States,,No,Computer Files
+Conti,New Light Christian Christian Center,Religious industry,"Houston, TX",States,,No,Computer Files
+Conti,ThyssenKrupp Holding,Manufacturing,"Essen, Germany",Deutschland,,No,Computer Files
+Conti,Allfasteners,Manufacturing,"Medina, OH",States,,No,Computer Files
+Conti,4th Judicial District Court,Government,"Monroe, LA",States,,No,Computer Files
+Conti,LindFast Solutions Group,Retail & Sales,"Blaine, MN",States,,No,Computer Files
+Conti,CB Masonry,Construction,USA,States,,No,Computer Files
+Conti,"Smith &amp; McGhee, PC",Legal,"DOTHAN, Alabama",States,,No,Computer Files
+Conti,"Star-Tam, Inc.",Retail & Sales,"SAN LEANDRO, California",States,,No,Computer Files
+Conti,"Chris-Leef General Agency, Inc",Financial,"Shawnee Mission, Kansas",States,,No,Computer Files
+Conti,Millstone Township School District,Education,"Clarksburg, NJ",States,,No,Computer Files
+Conti,Horizon Controls,Consulting,"Plymouth Meeting, PA",States,,No,Computer Files
+Conti,Adam Kutner Cares,Legal,"Las Vegas, NV",States,,No,Computer Files
+Conti,Neel Veterinary Hospital,Healthcare,"Oklahoma City, OK",States,,No,Computer Files
+Conti,Pearson Foods Corporation,Food,"Grand Rapids, MI",States,,No,Computer Files
+Conti,Earthly Choice,Food,"Cedar Grove, NJ",States,,No,Computer Files
+Conti,Siegfried &amp; Jensen,Legal,"Salt Lake City, UT",States,,No,Computer Files
+Conti,News Galstan and Ward Family,Healthcare,"Virginia, VA",States,,No,Computer Files
+Conti,Manitoulin Transport,Logistics and Supply,"Gore Bay, Canada",Canada,,No,Computer Files
+Conti,Tile Liquidators,Retail & Sales,"Chanhassen, MN",States,,No,Computer Files
+Conti,"City of Casey, Illinois",Government,"Casey, IL",States,,No,Computer Files
+Conti,Inter-Con Servicios de Seguridad Privada,Essential Services,"Pasadena, CA",States,,No,Computer Files
+Conti,Higginbotham Family Dental,Healthcare,"Blytheville, AR",States,,No,Computer Files
+Conti,Washington County Sheriff,Government,"Stillwater, MN",States,,No,Computer Files
+Conti,Ruddy Joinery,Construction,"Flitwick, United Kingdom",Kingdom,,No,Computer Files
+Conti,Prominent Europe Ltd,Retail & Sales,"Nottingham, United Kingdom",Kingdom,,No,Computer Files
+Conti,The Acorn,Research & Development,"Singapore, Singapore",Singapore,,Yes,Computer Files
+Conti,Herman Goldner Co Inc,Financial,"Philadelphia, PA",States,,No,Computer Files
+Conti,Ostiguy Ford,Automotive,Canada,Canada,,No,Computer Files
+Conti,MAT GmbH,Automotive,"Neunkirchen, Germany",Deutschland,,No,Computer Files
+Conti,The Judge Organization Companies,Logistics and Supply,"Newark, NJ",States,,No,Computer Files
+Conti,New York Foundation for Senior Citizens,Essential Services,"New York, NY",States,,No,Computer Files
+Conti,Emergency Air,Essential Services,"Chandler, AZ",States,,No,Computer Files
+Conti,Stone Legends,Construction,"Dallas, TX",States,,No,Computer Files
+Conti,NWH Group,Essential Services,"Dalkeith, United Kingdom",Kingdom,,No,Computer Files
+Conti,Dci Shires Inc,Construction,"Bluefield, WV",States,,No,Computer Files
+Conti,BRANDENBURG TELEPHONE,Technology,"Upton, KY",States,,No,Computer Files
+Conti,Fpos Group,Technology,"Akron, Ohio",States,,No,Computer Files
+Conti,Tkemlups te Secwepemc,Government,"Kamloops, Canada",Canada,,No,Computer Files
+Conti,Diaco Law,Legal,"Toronto, Canada",Canada,,No,Computer Files
+Conti,ATB Morley,Manufacturing,"Leeds, United Kingdom",Kingdom,,No,Computer Files
+Conti,Middlesex Housing Limited,Construction,"Tewksbury, MA",States,,No,Computer Files
+Conti,Swisher Commercial,Real Estate,"Ann Arbor, MI",States,,No,Computer Files
+Conti,Fresno Equipment Co,Retail & Sales,"Fresno, CA",States,,No,Computer Files
+Conti,Comcast Business Starter Internet,Technology,"Philadelphia, PA",States,,No,Computer Files
+Conti,Fall River Housing Authority,Government,"River Falls, WI",States,,No,Computer Files
+Conti,Milmont Greenhouses Inc,Retail & Sales,"Waynesboro, VA",States,,No,Computer Files
+Conti,Ringley Group,Real Estate,"London, United Kingdom",Kingdom,,No,Computer Files
+Conti,City of Key West Florida,Government,"Key West, FL",States,,No,Computer Files
+Conti,E.W. Wylie Corporation,Logistics and Supply,"West Fargo, ND",States,,No,Computer Files
+Conti,Trinity Supply Chain Solutions,Logistics and Supply,"Davenport, IA",States,,No,Computer Files
+Conti,"Daniel B. Hastings, Inc.",Manufacturing,"McAllen, TX",States,,No,Computer Files
+Conti,City of North Tonawanda N.Y.,Government,"North Tonawanda, NY",States,,No,Computer Files
+Conti,"The Washington Firm, Ltd.",Retail & Sales,"Seattle, WA",States,,No,Computer Files
+Conti,North Tippah School District,Education,"Tiplersville, Mississippi",States,,No,Computer Files
+Conti,Nation Huronne-Wendat,Government,"Quebec, Canada",Canada,,No,Computer Files
+Conti,Sign Language XL,Retail & Sales,"Denver, CO",Colombia,,No,Computer Files
+Conti,Tools and Metals Supply,Manufacturing,"San Diego, California",States,,No,Computer Files
+Conti,TrilliumCcollege,Education,"Toronto, Canada",Canada,,No,Computer Files
+Conti,Data Evolution Corporation,Technology,"Manchester, NH",States,,No,Computer Files
+Conti,ITD Print Solutions Inc,Technology,"Los Angeles, CA",States,,No,Computer Files
+Conti,Family Health Centers Of Georgia Inc,Healthcare,"Atlanta, GA",States,,No,Computer Files
+Conti,"Baldwin Accounting CPA, P.A. (BACPA)",Financial,"Richmond, KY",States,,No,Computer Files
+Conti,Greater Allen Development Corporation,Financial,"Columbus, GA",States,,No,Computer Files
+Conti,Weirs Furniture,Retail & Sales,"Dallas, TX",States,,No,Computer Files
+Conti,Palmieri furniture,Furniture,"Ontario, Canada",Canada,,No,Computer Files
+Conti,Delme-WerkstÃ¤tten gGmbH,Retail & Sales,Germany,Deutschland,,No,Computer Files
+Conti,Varroc Lighting Systems,Manufacturing,"Aurangabad, India",India,,Yes,Computer Files
+Conti,Top Rocker Harley-Davidson,Manufacturing,"Milwaukee, WI",States,,No,Computer Files
+Conti,Golden Gate Regional Center,Essential Services,"San Francisco, CA",States,,No,Computer Files
+Conti,Crossroads Courier Inc,Logistics and Supply,"Saint Louis, MO",States,,No,Computer Files
+Conti,CORE Information Technology Consultants Ltd.,Technology,"London, United Kingdom",Kingdom,,No,Computer Files
+Conti,Hi-Line Moving Services,Logistics and Supply,"Dallas, TX",States,,No,Computer Files
+Conti,Whistl.UK,Logistics and Supply,"Marlow, United Kingdom",Kingdom,,No,Computer Files
+Conti,Omnetics Connector Corporation,Manufacturing,"Fridley, MN",States,,No,Computer Files
+Conti,LABORATOIRES EXPANSCIENCE,Healthcare,"Courbevoie, France",France,,No,Computer Files
+RansomEXX,Unione Reno Galliera,Government,"Bologna, Italy",Italia,9/26/2021,No,Computer Files
+RansomEXX,United Carton Industries Company Ltd,Manufacturing,"Jeddah, Saudi Arabia",السعودية,9/20/2021,No,Computer Files
+RansomEXX,American Megatrends International,Technology,"Norcross, Georgia, United States",States,8/26/2021,No,Computer Files
+RansomEXX,Gigabyte Technology,Technology,"Fairfield, CT",Ireland,8/12/2021,No,Computer Files
+RansomEXX,Ermenegildo Zegna Holding,Retail & Sales,"Trivero, Italy",Italia,8/6/2021,No,Computer Files
+RansomEXX,Liberty Group & ForHousing,Retail & Sales,"Houston, TX",States,8/1/2021,No,Computer Files
+RansomEXX,Corporación Nacional de Telecomunicación,Technology,"Quito, Ecuador",Ecuador,7/21/2021,No,Computer Files
+RansomEXX,Walsin,Retail & Sales,"Taipei, Taiwan",臺灣,7/12/2021,Yes,Computer Files
+RansomEXX,WT Microelectronics,Logistics and Supply,"Taipei, Taiwan",臺灣,7/1/2021,Yes,Computer Files
+RansomEXX,Universal Assistance S.A.,Travel,"Buenos Aires, Argentina",Argentina,6/3/2021,No,Computer Files
+RansomEXX,STEMCOR,Manufacturing,"London, United Kingdom",Kingdom,5/20/2021,No,Computer Files
+RansomEXX,Wallace & Carey,Logistics and Supply,"Calgary, Canada",Canada,5/16/2021,No,Computer Files
+RansomEXX,Samvardhana Motherson Peguform,Manufacturing,"Botzingen, Germany",Deutschland,5/8/2021,No,Computer Files
+RansomEXX,Nobiskrug,Manufacturing,"Rendsburg, Germany",Deutschland,4/26/2021,No,Computer Files
+RansomEXX,Ajuntament de Castelló,Government,"Castellon, Spain",España,4/10/2021,No,Computer Files
+RansomEXX,Consiglio Nazionale del Notariato,Government,"Roma RM, Italy",Italia,3/31/2021,No,Computer Files
+RansomEXX,Pertamina EP,Utilities,"Jakarta, Indonesia",Indonesia,3/19/2021,Yes,Computer Files
+RansomEXX,CalAmp (NASDAQ: CAMP),Technology,"California, United States",States,2/23/2021,No,Computer Files
+RansomEXX,Soluzioni Infrastrutturali Telefoniche ed Elettriche S.p.A.,Technology,"ROMA, Italy",Italia,2/6/2021,No,Computer Files
+RansomEXX,Indura SA,Utilities,"Cerrillos Santiago, Chile",Chile,2/2/2021,No,Computer Files
+RansomEXX,Vistra,Financial,"Westendstrasse 28, 60325 Frankfurt am Main, Germany",Deutschland,1/28/2021,No,Computer Files
+RansomEXX,Ultrapar Participações S.A.,Utilities,"Av. Brigadeiro Luis Antonio, 1343 - Bela Vista",Brasil,1/24/2021,No,Computer Files
+RansomEXX,St. James Parish Credit Union,Financial,"New York, NY",States,1/3/2021,No,Computer Files
+RansomEXX,Texas Department of Transportation,Government,"Texas, America",States,12/28/2020,No,Computer Files
+RansomEXX,RPM Performance Coatings Group,Retail & Sales,"Burlington, NJ",States,12/23/2020,No,Computer Files
+RansomEXX,IQPC Corporate,Advertising & Marketing,"New York, United States",States,12/20/2020,No,Computer Files
+RansomEXX,Inchcape Australia,Logistics and Supply,"4 Burbank Place,
+Norwest NSW 2153",Australia,12/13/2020,Yes,Computer Files
+RansomEXX,Groupe Atlantic,Utilities,"La Roche-sur-Yon, France",France,12/6/2020,No,Computer Files
+RansomEXX,Embraer S.A.,Logistics and Supply,"Campos, Brazil",Brasil,11/30/2020,No,Computer Files
+RansomEXX,"The Lighting Practice, Inc",Retail & Sales,"Philadelphia, United States",States,11/30/2020,No,Computer Files
