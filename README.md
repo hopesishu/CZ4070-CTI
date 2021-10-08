@@ -3,8 +3,10 @@
 ## 1. Web Scraping
 Websites that have been scraped: 
 1) REvil (Link: http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion)
-2) ??
-3) ?? 
+2) Conti (Link: http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion)
+3) Pysa (Link: http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html)
+4) XingTeam (Link: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion)
+5) BlackMatter (Link: http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion/)
 
 __How it works:__ <br />
 The web scaper scrapes the title of each post in the website, which contains the name of the victim company/organization. Each 
@@ -17,7 +19,7 @@ industry. The search has been narrowed down to Wikipedia searches.
 
 ## 3. Collating the data
 __How it works:__ <br />
-Data from each of the scraped websites will be collated together into a Pandas DataFrame.
+Data from each of the scraped websites will be collated together into a single Pandas DataFrame.
 
 ## Challenges faced:
 1) __Unable to incorporate Selenium with Tor__
